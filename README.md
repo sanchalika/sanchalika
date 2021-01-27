@@ -18,14 +18,6 @@
 
 <br />
 <br />
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="sanchalika's GitHub Stats" src="https://github-readme-stats.sanchalika.vercel.app/api?username=sanchalika&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/DattaSanchalika
 [instagram]: https://instagram.com/Poketo_1921
