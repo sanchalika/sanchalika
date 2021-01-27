@@ -18,9 +18,10 @@
 
 <br />
 <br />
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-sanchalika.vercel.app/api/spotify-playing" alt="sanchalikaSpotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+###  Spotify Playing 🎧
+
+[<img src="https://now-playing-s@nchalik@.vercel.app/api/spotify-playing" alt="sanchalika Spotify Playing" width="350" />](https://open.spotify.com/s@nchalik@/swyqyimdc12jajde4vpwd2x1b)
 
 
 [twitter]: https://twitter.com/DattaSanchalika
