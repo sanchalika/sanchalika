@@ -10,4 +10,4 @@
 - 😄 
 - ⚡ Fun fact: Addicted to watching vlogs of luxury masions at free hours.
 - Reach me out at twitter - @DattaSanchalika
-- Reach me out at LinkedIn - linkedin.com/in/sanchalika-datta-a956a518b/
+- Reach me out at LinkedIn - https://www.linkedin.com/in/sanchalika-datta-a956a518b/
