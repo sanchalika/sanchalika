@@ -42,6 +42,8 @@
 - Developer Student's Club NITA
 - GirlScript Agartala
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika)](https://github.com/samchalika/github-readme-stats)
+
 ### GITHUB Stats
 
 [![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika)](https://github.com/sanchalika/github-readme-stats)
