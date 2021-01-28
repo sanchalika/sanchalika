@@ -3,7 +3,7 @@
 --
  
 ## I'm an undergrad B.tech ECE student at NITA.
-
+![](https://komarev.com/ghpvc/?username=sanchalika&label=PROFILE+VIEWS)
 🔭 Technical skills:
 --
 - C++ programming language
