@@ -66,4 +66,4 @@ Keep growing!
 [instagram]: https://instagram.com/Poketo_1921
 [linkedin]: https://linkedin.com/in/sanchalika-datta-a956a518b
 [facebook]: https://www.facebook.com/sanchalika.datta.1/
-[discord]: https://discorg.gg/sanchalika20#2648
+[discord]: https://discord.gg/MUeMUDU7
