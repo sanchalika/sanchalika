@@ -28,6 +28,9 @@
 - Sanganan Prayog
 - Developer Student's Club NITA
 - GirlScript Agartala
+
+### GITHUB Stats
+
 [![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika)](https://github.com/sanchalika/github-readme-stats)
 
 ###  Spotify Playing 🎧
