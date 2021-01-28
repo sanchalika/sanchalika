@@ -2,8 +2,8 @@
  Hi there, I'm Sanchalika <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h2>
 --
  
-## I'm an undergrad B.tech ECE student at NITA.
-![](https://komarev.com/ghpvc/?username=sanchalika&label=PROFILE+VIEWS)
+## I'm an undergrad B.tech ECE student at NITA. <br> ![](https://komarev.com/ghpvc/?username=sanchalika&label=PROFILE+VIEWS)
+
 🔭 Technical skills:
 --
 - C++ programming language
