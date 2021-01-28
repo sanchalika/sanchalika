@@ -34,16 +34,7 @@ other skills:
 [![Linkedin Badge](https://img.shields.io/badge/-Sanchalika_Datta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchalika-datta-a956a518b/)](https://www.linkedin.com/in/sanchalika-datta-a956a518b/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchalika2019@gmail.com)](mailto:sanchalika2019@gmail.com)
 
-### Connect with me:
-
-[<img align="left" alt="sanchalika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sanchalika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sanchalika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-
-### Communities:
+### Communities 🌱:
 - WTM Member
 - Sanganan Prayog
 - Developer Student's Club NITA
@@ -59,8 +50,20 @@ other skills:
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+### Social media links:
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>][twitter]
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>][instagram] 
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>][facebook] 
+[<img src="https://raw.githubusercontent.com/deepraj1729/deepraj1729/master/Assets/icons8-discord-96.png" width="35" height="35"/>][discord]
+
+<br>
+
+Keep growing!
+--
 [twitter]: https://twitter.com/DattaSanchalika
 [instagram]: https://instagram.com/Poketo_1921
 [linkedin]: https://linkedin.com/in/sanchalika-datta-a956a518b
-
-
+[facebook]: https://www.facebook.com/sanchalika.datta.1/
+[discord]: https://discorg.gg/sanchalika20#2648
