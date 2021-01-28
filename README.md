@@ -9,7 +9,12 @@
 - C++ programming language
 - C programming language
 - python 
-- 😄 other skills: HTML, CSS, Javascript.
+
+other skills: 
+--
+- HTML
+- CSS
+- Javascript
 
 🌱 Currently learning
 --
