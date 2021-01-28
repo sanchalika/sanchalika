@@ -1,4 +1,5 @@
- ### Hi there, I'm Sanchalika 😄!
+ ### Hi there, I'm Sanchalika <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h2>
+
  
 ## I'm an undergrad B.tech ECE student at NITA.
 
