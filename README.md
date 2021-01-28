@@ -2,14 +2,25 @@
 --
 ## I'm an undergrad B.tech ECE student at NITA.
 
-- 🔭 Technical skills: C++, C, python programming language.
+🔭 Technical skills:
+--
+- C++ programming language
+- C programming language
+- python 
 - 😄 other skills: HTML, CSS, Javascript.
-- 🌱 I’m currently learning Data structures and Algorithms, Ethical Hacking.
-- 📫 How to reach me: Sanchalika2019@gmail.com
-- ⚡ Fun fact: Addicted to watching vlogs of luxury masions at free hours.
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute to Open Source projects
 
+ ⚡ Fun fact: 
+ --
+ Addicted to watching vlogs of luxury masions at free hours.
+- 🌱 I’m currently learning everything 🤣
+
+🌱 Currently learning
+--
+- Data structures 
+- Ethical Hacking.
+
+ 🥅 2021 Goals: Contribute to Open Source projects
+--
 [![Twitter Badge](https://img.shields.io/badge/-@DattaSanchalika-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DattaSanchalika)](https://twitter.com/DattaSanchalika) 
 [![Linkedin Badge](https://img.shields.io/badge/-Sanchalika_Datta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchalika-datta-a956a518b/)](https://www.linkedin.com/in/sanchalika-datta-a956a518b/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchalika2019@gmail.com)](mailto:sanchalika2019@gmail.com)
