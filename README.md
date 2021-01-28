@@ -1,5 +1,6 @@
- Hi there, I'm Sanchalika 👋
---
+ Hi there, I'm Sanchalika 
+ <img align='right' src="https://raw.githubusercontent.com/sanchalika/sanchalika/master/virtualbooth.jpg" width='380"'>
+
 ## I'm an undergrad B.tech ECE student at NITA.
 
 🔭 Technical skills:
