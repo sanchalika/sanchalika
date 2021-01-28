@@ -44,7 +44,7 @@
 
 ### GITHUB Stats
 
-[![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika)](https://github.com/sanchalika/github-readme-stats)
+[![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika &theme=radical)](https://github.com/sanchalika/github-readme-stats)
 
 ###  Spotify Playing 🎧
 
