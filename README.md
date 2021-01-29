@@ -48,6 +48,14 @@
 ### GITHUB Stats
 
 ![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&theme=dark)
+<p>
+ <a href="https://github.com/sanchalika/portfolio_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=portfolio_project&show_icons=true&theme=radical" />
+  </a>
+ <a href="https://github.com/sanchalika/sanganan_prayog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=sanganan_prayog&show_icons=true&theme=radical" />
+  </a>
+ </p>
 
 ###  Spotify Playing 🎧
 
@@ -63,7 +71,7 @@
 
 <br>
 
-Keep growing!
+Keep growing 🌱!
 --
 [twitter]: https://twitter.com/DattaSanchalika
 [instagram]: https://instagram.com/Poketo_1921
