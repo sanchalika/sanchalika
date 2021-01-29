@@ -15,7 +15,7 @@
 - C programming language
 - python 
 
-### other skills: 
+ other skills: 
 --
 - HTML
 - CSS
@@ -40,10 +40,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchalika2019@gmail.com)](mailto:sanchalika2019@gmail.com)
 
 ### Communities 🌱:
-- WTM Member
-- Sanganan Prayog
-- Developer Student's Club NITA
-- GirlScript Agartala
+- * WTM Member
+- * Sanganan Prayog
+- * Developer Student's Club NITA
+- * GirlScript Agartala
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika)](https://github.com/samchalika/github-readme-stats)
 
