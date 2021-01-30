@@ -54,7 +54,9 @@ MY PROJECTS 🔭:
  <a href="https://github.com/sanchalika/portfolio_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=portfolio_project&show_icons=true&theme=radical" />
   </a>
- 
+ <a href="https://github.com/sanchalika/TripleX-Basic-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=TripleX-Basic-Game&show_icons=true&theme=radical" />
+  </a>
  </p>
  <br>
 <p>
