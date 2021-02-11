@@ -11,9 +11,10 @@
 
 🔭 Technical skills:
 --
+- python programming language
 - C++ programming language
 - C programming language
-- python 
+
 
  other skills: 
 --
@@ -21,9 +22,15 @@
 - CSS
 - Javascript
 
+LIBRARIES I USE:
+--
+- Numpy
+- Pandas
+- Seaborn
+
 🌱 Currently learning
 --
-- Data structures 
+- Data Visualization. 
 - Ethical Hacking.
 
  🥅 2021 Goals: Contribute to Open Source projects
@@ -31,7 +38,7 @@
 
 ⚡ Fun fact: 
  --
-- Addicted to watching vlogs of luxury masions at free hours.
+- Addicted to watching vlogs of luxury mansions at free hours.
 - 🌱 I’m currently learning everything 🤣
 
 ### Communities 🌱:
