@@ -30,6 +30,7 @@ LIBRARIES I USE:
 
 🌱 Currently learning
 --
+- Data Structures
 - Data Visualization. 
 - Ethical Hacking.
 
