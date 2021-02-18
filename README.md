@@ -49,7 +49,9 @@ LIBRARIES I USE:
 - * Developer Student's Club NITA
 - * GirlScript Agartala
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika)](https://github.com/samchalika/github-readme-stats)
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika&layout=compact)](https://github.com/sanchalika/github-readme-stats)
 
 ### GITHUB Stats
 
@@ -95,4 +97,4 @@ Keep growing 🌱!
 [instagram]: https://instagram.com/Poketo_1921
 [linkedin]: https://linkedin.com/in/sanchalika-datta-a956a518b
 [facebook]: https://www.facebook.com/sanchalika.datta.1/
-[discord]: https://discord.gg/MUeMUDU7
+
