@@ -51,7 +51,7 @@ LIBRARIES I USE:
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika&layout=compact)](https://github.com/sanchalika/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika&langs_count=8)](https://github.com/sanchalika/github-readme-stats)
 
 ### GITHUB Stats
 
