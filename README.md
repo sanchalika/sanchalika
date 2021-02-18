@@ -87,8 +87,6 @@ MY PROJECTS 🔭:
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>][twitter]
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>][instagram] 
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>][facebook] 
-[<img src="https://raw.githubusercontent.com/deepraj1729/deepraj1729/master/Assets/icons8-discord-96.png" width="35" height="35"/>][discord]
-
 <br>
 
 Keep growing 🌱!
