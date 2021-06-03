@@ -22,17 +22,10 @@
 - CSS
 - Javascript
 
-LIBRARIES I USE:
---
-- Numpy
-- Pandas
-- Seaborn
-
 🌱 Currently learning
 --
-- Data Structures
-- Data Visualization. 
-- Ethical Hacking.
+- Data Structures and Algorithms
+- Javascript 
 
  🥅 2021 Goals: Contribute to Open Source projects
 --
