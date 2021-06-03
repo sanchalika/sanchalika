@@ -32,7 +32,6 @@
 
 ⚡ Fun fact: 
  --
-- Addicted to watching vlogs of luxury mansions at free hours.
 - 🌱 I’m currently learning everything 🤣
 
 ### Communities 🌱:
