@@ -28,11 +28,9 @@
 - 🌱 I’m currently learning everything 🤣
 
 ### Communities 🌱:
-
-- * WTM Member
 - * Sanganan Prayog
 - * Developer Student's Club NITA
-- * GirlScript Agartala
+
 
 ### Top Languages
 
