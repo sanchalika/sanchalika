@@ -71,7 +71,7 @@ MY PROJECTS 🔭:
 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
-[https://open.spotify.com/playlist/5UziBvgZTWy2EjJbuzkUGP]
+(https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
  Social media links:
 --
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>][linkedin]
