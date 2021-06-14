@@ -57,11 +57,6 @@ MY PROJECTS 🔭:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=sanganan_prayog&show_icons=true&theme=radical" />
   </a>
  </p>
- 
-### SPOTIFY MUSIC:  🎧 
-
-
-
 
  Social media links:
 --
