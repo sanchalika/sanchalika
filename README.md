@@ -57,7 +57,6 @@ MY PROJECTS 🔭:
   </a>
  </p>
  <br>
-<p>
    <a href="https://github.com/sanchalika/sanganan_prayog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=sanganan_prayog&show_icons=true&theme=radical" />
   </a>
