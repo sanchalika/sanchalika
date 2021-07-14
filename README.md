@@ -44,6 +44,12 @@ MY PROJECTS 🔭:
 --
 
 <p>
+   <a href="https://github.com/sanchalika/autonomous-cars">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=autonomous-cars&show_icons=true&theme=radical" />
+  </a>
+ </p>
+
+<p>
  <a href="https://github.com/sanchalika/portfolio_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=portfolio_project&show_icons=true&theme=radical" />
   </a>
