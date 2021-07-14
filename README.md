@@ -42,8 +42,6 @@
 
 MY PROJECTS 🔭:
 --
-
-<p>
    <a href="https://github.com/sanchalika/autonomous-cars">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=autonomous-cars&show_icons=true&theme=radical" />
   </a>
@@ -56,7 +54,6 @@ MY PROJECTS 🔭:
    <a href="https://github.com/sanchalika/sanganan_prayog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=sanganan_prayog&show_icons=true&theme=radical" />
   </a>
- </p>
 
  Social media links:
 --
