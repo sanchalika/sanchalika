@@ -50,8 +50,6 @@ MY PROJECTS 🔭:
  <a href="https://github.com/sanchalika/portfolio_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=portfolio_project&show_icons=true&theme=radical" />
   </a>
-  </p>
-  <p>
    <a href="https://github.com/sanchalika/OOPS-in-python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=OOPS-in-python&show_icons=true&theme=radical" />
   </a>
