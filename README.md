@@ -30,7 +30,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/sanchalika">
-    <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
@@ -45,18 +45,23 @@
 
 
 
-⚡ Fun fact: 
+<!-- ⚡ Fun fact: 
  --
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 -->
 
-### Communities 🌱:
-- * Sanganan Prayog
-- * Developer Student's Club NITA
+
+
+
+<!-- ### Communities 🌱:
+ * Sanganan Prayog
+ * Developer Student's Club NITA -->
 
 <!-- ### GITHUB Stats
 ![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&theme=dark) -->
 
- Social media links:
+
+
+<!--  Social media links:
 --
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>][twitter]
@@ -64,4 +69,4 @@
 --
 [twitter]: https://twitter.com/DattaSanchalika
 [linkedin]: https://linkedin.com/in/sanchalika-datta-a956a518b
-
+ -->
