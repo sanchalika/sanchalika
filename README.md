@@ -1,5 +1,5 @@
    Hi there, I'm Sanchalika <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h2> 
- --
+ ![Development](https://github.com/sanchalika/sanchalika/blob/main/Green%20Freelance%20Course%20Basics%20Banner.png)
  <br>
  
 [![Twitter Badge](https://img.shields.io/badge/-@DattaSanchalika-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DattaSanchalika)](https://twitter.com/DattaSanchalika) 
