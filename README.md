@@ -15,14 +15,9 @@
 
 🌱 Currently learning
 --
-
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
- 
- 
-
  🥅 2021 Goals: Contribute to Open Source projects
 --
-
 ⚡ Fun fact: 
  --
 - 🌱 I’m currently learning everything 🤣
@@ -32,24 +27,7 @@
 - * Developer Student's Club NITA
 
 ### GITHUB Stats
-
 ![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&theme=dark)
-
-MY PROJECTS 🔭:
---
-   <a href="https://github.com/sanchalika/autonomous-cars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=autonomous-cars&show_icons=true&theme=radical" />
-  </a>
- <a href="https://github.com/sanchalika/portfolio_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=portfolio_project&show_icons=true&theme=radical" />
-  </a>
-   <a href="https://github.com/sanchalika/OOPS-in-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=OOPS-in-python&show_icons=true&theme=radical" />
-  </a>
-   <a href="https://github.com/sanchalika/sanganan_prayog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchalika&repo=sanganan_prayog&show_icons=true&theme=radical" />
-  </a>
-
  Social media links:
 --
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>][linkedin]
