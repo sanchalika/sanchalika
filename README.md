@@ -28,6 +28,7 @@
 
 ### GITHUB Stats
 ![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&theme=dark)
+
  Social media links:
 --
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>][linkedin]
