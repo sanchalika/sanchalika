@@ -63,7 +63,8 @@ MY PROJECTS 🔭:
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>][facebook] 
 <br>
 
-![snake gif](https://github.com/Sanchalika/Actions/blob/output/github-contribution-grid-snake.svg)
+### snake eating my contributions graph
+![snake gif](https://github.com/sanchalika/sanchalika/blob/output/github-contribution-grid-snake.gif)
 
 Keep growing 🌱!
 --
