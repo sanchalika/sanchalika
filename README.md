@@ -3,11 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+communication+engineering+Student;Web+development+enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
  <br>
- <div align="center">
-  <a href="https://open.spotify.com/playlist/01HHoWpHSvumhNalLpqjhe">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
 
 🔭 Technical skills:
 --
