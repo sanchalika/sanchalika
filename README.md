@@ -41,6 +41,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchalika2019@gmail.com)](mailto:sanchalika2019@gmail.com)
  ![](https://komarev.com/ghpvc/?username=sanchalika&label=PROFILE+VIEWS) -->
 
+
+
+
+
 ⚡ Fun fact: 
  --
 - 🌱 I’m currently learning everything 🤣
