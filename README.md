@@ -63,6 +63,10 @@ MY PROJECTS 🔭:
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>][facebook] 
 <br>
 
+<div>
+   ![Snake animation](https://github.com/Sanchalika/Sanchalika/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 Keep growing 🌱!
 --
 [twitter]: https://twitter.com/DattaSanchalika
