@@ -1,6 +1,6 @@
 ![Development](https://github.com/sanchalika/sanchalika/blob/main/Black%20Elegant%20Illustrated%20Lifestyle%20Blogger%20LinkedIn%20Banner.png)
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ELECTRONICS+and+COMMUNICATION+ENGINEERING+STUDENT;WEB+DEVELOPMENT+ENTHUSIAST;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ECE STUDENT;WEB+DEVELOPMENT+ENTHUSIAST;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 🔭 Technical skills:
