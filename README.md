@@ -24,6 +24,13 @@
   <a href="https://icons-for-free.com/iconfiles/png/512/bxl+c+plus+plus-1325051931431540241.png" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/bxl+c+plus+plus-1325051931431540241.png" alt="Cpp" width=40 height=40/> </a>
 </p>
 
+### Projects 💼
+
+| 🍔 – [**Portfolio**](https://github.com/sanchalika/portfolio_project) | 🌑 – [**Autonomous Cars**](https://github.com/sanchalika/autonomous-cars) | 🏫 – [**E-Commerce**](https://github.com/sanchalika/Sanganan_Prayog)  |
+|---|---|---|
+| 🌐 – [**Leetcode questions**](https://github.com/sanchalika/Leetcode-and-GFG-) | 📁 – [**OOPS in python**](https://github.com/sanchalika/OOPS-in-python) | ⌨️ – [**Jobify**](https://github.com/sanchalika/portfolio_project)  |
+
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
