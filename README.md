@@ -15,6 +15,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://icons-for-free.com/iconfiles/png/512/bxl+c+plus+plus-1325051931431540241.png" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/bxl+c+plus+plus-1325051931431540241.png"/> </a>
 </p>
 
 [![Twitter Badge](https://img.shields.io/badge/-@DattaSanchalika-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DattaSanchalika)](https://twitter.com/DattaSanchalika) 
