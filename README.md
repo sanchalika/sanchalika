@@ -56,9 +56,6 @@ MY PROJECTS 🔭:
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>][twitter]
 <br>
 
-### snake eating my contributions graph
-![snake gif](https://github.com/sanchalika/sanchalika/blob/output/github-contribution-grid-snake.gif)
-
 Keep growing 🌱!
 --
 [twitter]: https://twitter.com/DattaSanchalika
