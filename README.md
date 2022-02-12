@@ -63,10 +63,10 @@ MY PROJECTS 🔭:
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>][facebook] 
 <br>
 
+![snake gif](https://github.com/Sanchalika/Actions/blob/output/github-contribution-grid-snake.svg)
+
 Keep growing 🌱!
 --
 [twitter]: https://twitter.com/DattaSanchalika
-[instagram]: https://instagram.com/Poketo_1921
 [linkedin]: https://linkedin.com/in/sanchalika-datta-a956a518b
-[facebook]: https://www.facebook.com/sanchalika.datta.1/
 
