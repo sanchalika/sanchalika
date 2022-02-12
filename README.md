@@ -31,11 +31,6 @@
 - * Sanganan Prayog
 - * Developer Student's Club NITA
 
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika&langs_count=8)](https://github.com/sanchalika/github-readme-stats)
-
 ### GITHUB Stats
 
 ![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&theme=dark)
@@ -59,8 +54,6 @@ MY PROJECTS 🔭:
 --
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>][twitter]
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>][instagram] 
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>][facebook] 
 <br>
 
 ### snake eating my contributions graph
