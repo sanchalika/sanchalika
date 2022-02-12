@@ -43,8 +43,6 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>][twitter]
 <br>
-
-Keep growing 🌱!
 --
 [twitter]: https://twitter.com/DattaSanchalika
 [linkedin]: https://linkedin.com/in/sanchalika-datta-a956a518b
