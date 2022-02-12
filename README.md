@@ -18,6 +18,24 @@
   <a href="https://icons-for-free.com/iconfiles/png/512/bxl+c+plus+plus-1325051931431540241.png" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/bxl+c+plus+plus-1325051931431540241.png" alt="Cpp" width=40 height=40/> </a>
 </p>
 
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br>
+
+<p align="center">
+  <a href="https://github.com/sanchalika">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/sanchalika">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchalika&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+</details>
+<br>
+
 [![Twitter Badge](https://img.shields.io/badge/-@DattaSanchalika-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DattaSanchalika)](https://twitter.com/DattaSanchalika) 
 [![Linkedin Badge](https://img.shields.io/badge/-Sanchalika_Datta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchalika-datta-a956a518b/)](https://www.linkedin.com/in/sanchalika-datta-a956a518b/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchalika2019@gmail.com)](mailto:sanchalika2019@gmail.com)
