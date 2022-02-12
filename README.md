@@ -49,8 +49,8 @@
 - * Sanganan Prayog
 - * Developer Student's Club NITA
 
-### GITHUB Stats
-![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&theme=dark)
+<!-- ### GITHUB Stats
+![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&theme=dark) -->
 
  Social media links:
 --
