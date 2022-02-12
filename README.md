@@ -1,4 +1,4 @@
-![Development](https://github.com/sanchalika/sanchalika/blob/main/Green%20Freelance%20Course%20Basics%20Banner.png)
+![Development](https://github.com/sanchalika/sanchalika/blob/main/Black%20Elegant%20Illustrated%20Lifestyle%20Blogger%20LinkedIn%20Banner.png)
  <br>
  
 [![Twitter Badge](https://img.shields.io/badge/-@DattaSanchalika-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DattaSanchalika)](https://twitter.com/DattaSanchalika) 
