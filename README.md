@@ -80,3 +80,7 @@
 [twitter]: https://twitter.com/DattaSanchalika
 [linkedin]: https://linkedin.com/in/sanchalika-datta-a956a518b
  -->
+ 
+<!--  ## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/sanchalika/Actions/blob/output/github-contribution-grid-snake.svg) -->
+
