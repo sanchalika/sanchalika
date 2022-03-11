@@ -26,7 +26,7 @@
 
 ### Projects 💼
 
-| 🍔 – [**Portfolio**](https://github.com/sanchalika/portfolio_project) | 🌑 – [**Autonomous Cars**](https://github.com/sanchalika/autonomous-cars) | 🏫 – [**E-Commerce**](https://github.com/sanchalika/Sanganan_Prayog)  |
+| 🍔 – [**Krypt Web3.0**](https://github.com/sanchalika/WEB-3.0) | 🌑 – [**Autonomous Cars**](https://github.com/sanchalika/autonomous-cars) | 🏫 – [**Portfolio**](https://github.com/sanchalika/portfolio_project)  |
 |---|---|---|
 | 🌐 – [**Leetcode questions**](https://github.com/sanchalika/Leetcode-and-GFG-) | 📁 – [**OOPS in python**](https://github.com/sanchalika/OOPS-in-python) | ⌨️ – [**Jobify**](https://github.com/sanchalika/portfolio_project)  |
 
