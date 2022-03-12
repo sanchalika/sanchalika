@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:7fffd4&height=150&section=header&fontSize=90&animation=fadeIn"/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DattaSanchalika?label=Follow)](https://twitter.com/intent/follow?screen_name=DattaSanchalika)
 [![Linkedin: Tanya](https://img.shields.io/badge/-Sanch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchalika-datta-a956a518b/)](https://www.linkedin.com/in/sanchalika-datta-a956a518b/)
@@ -85,4 +84,4 @@
 <!--  ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/sanchalika/Actions/blob/output/github-contribution-grid-snake.svg) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:7fffd4&height=100&section=footer&text=&fontSize=90" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4D4DFF,100:20F3FD&height=100&section=footer&text=&fontSize=90" />
