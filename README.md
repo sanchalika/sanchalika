@@ -1,7 +1,7 @@
 ![Development](https://github.com/sanchalika/sanchalika/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(1).png)
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From AR game development with Unity to Machine Learning using R, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sanchalika&theme=radical&mode=weekly" />
@@ -17,6 +17,7 @@
  
 #### Main Stack:
 
+[![My Skills](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -28,14 +29,15 @@
 
 #### Secondary Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
+![Microservices](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 #### Databases:
@@ -46,10 +48,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -63,15 +62,7 @@
 <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
-  
- 
- ### Projects 💼
-
-| 🍔 – [**Krypt Web3.0**](https://github.com/sanchalika/WEB-3.0) | 🌑 – [**Autonomous Cars**](https://github.com/sanchalika/autonomous-cars) | 🏫 – [**Portfolio**](https://github.com/sanchalika/portfolio_project)  |
-|---|---|---|
-| 🌐 – [**Leetcode questions**](https://github.com/sanchalika/Leetcode-and-GFG-) | 📁 – [**OOPS in python**](https://github.com/sanchalika/OOPS-in-python) | ⌨️ – [**Jobify**](https://github.com/sanchalika/portfolio_project)  |
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
  
  <!--wait-->
  
@@ -110,33 +101,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sanchalika_Datta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchalika-datta-a956a518b/)](https://www.linkedin.com/in/sanchalika-datta-a956a518b/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchalika2019@gmail.com)](mailto:sanchalika2019@gmail.com)
  ![](https://komarev.com/ghpvc/?username=sanchalika&label=PROFILE+VIEWS) -->
-
-
-
-
-
-<!-- ⚡ Fun fact: 
- --
-- 🌱 I’m currently learning everything 🤣 -->
-
-
-
-
-<!-- ### Communities 🌱:
- * Sanganan Prayog
- * Developer Student's Club NITA -->
-
-<!-- ### GITHUB Stats
-![sanchalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchalika&show_icons=true&theme=dark) -->
-
-
-
-<!--  Social media links:
---
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>][linkedin]
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>][twitter]
-<br>
---
-[twitter]: https://twitter.com/DattaSanchalika
-[linkedin]: https://linkedin.com/in/sanchalika-datta-a956a518b
- -->
