@@ -1,9 +1,3 @@
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/DattaSanchalika?label=Follow)](https://twitter.com/intent/follow?screen_name=DattaSanchalika)
-[![Linkedin: Tanya](https://img.shields.io/badge/-Sanch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchalika-datta-a956a518b/)](https://www.linkedin.com/in/sanchalika-datta-a956a518b/)
-![GitHub followers](https://img.shields.io/github/followers/sanchalika?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=sanchalika&color=brightgreen"> 
-
 ![Development](https://github.com/sanchalika/sanchalika/blob/main/Black%20Elegant%20Illustrated%20Lifestyle%20Blogger%20LinkedIn%20Banner.png)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Student;Web+Developer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
