@@ -1,4 +1,4 @@
-![Development](https://github.com/sanchalika/sanchalika/blob/main/Black%20Elegant%20Illustrated%20Lifestyle%20Blogger%20LinkedIn%20Banner.png)
+![Development](https://github.com/sanchalika/sanchalika/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Student;Web+Developer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
