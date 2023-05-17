@@ -3,6 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Student;Web+Developer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+<div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sanchalika&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-sanchalika.vercel.app/api/top-langs/?username=sanchalika&show_icons=true&theme=radical&layout=compact" />
  </div>
