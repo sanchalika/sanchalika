@@ -1,8 +1,6 @@
 ![Development](https://github.com/sanchalika/sanchalika/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(1).png)
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br>&nbsp;
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sanchalika&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=sanchalika&show_icons=true&theme=radical&layout=compact" />
