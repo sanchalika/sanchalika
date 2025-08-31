@@ -1,4 +1,4 @@
-![Development](https://github.com/sanchalika/sanchalika/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(1).png)
+![Development](https://github.com/sanchalika/sanchalika/blob/main/Sanchalika%20datta.png)
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
