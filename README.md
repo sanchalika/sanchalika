@@ -60,7 +60,7 @@ public class Sanchalika {
 </td>
 <td width="42%" valign="top">
 
-<img src="./assets/girl-coding.gif" width="100%" alt="coding" />
+<img src="https://github.com/sanchalika/sanchalika/blob/main/girl-coding.gif" width="100%" alt="coding" />
 
 </td>
 </tr>
